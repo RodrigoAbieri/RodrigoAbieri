@@ -1,8 +1,8 @@
 ## Hello 👋
 
-My name is Rodrigo, i'm from Argentina and I am a junior developer
+My name is Rodrigo, i'm from Argentina.
 
-* I currently work for Mercado Libre in the position of incident management
+* I currently working at Mercado Libre company. I am developer in Incident Managment team.
 
 ## Skills
 
