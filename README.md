@@ -11,4 +11,4 @@ My name is Rodrigo, i'm from Argentina and I am a junior developer
 
 ## Contact
 
-* You can contact me through [LinkedIn] (https://www.linkedin.com/in/rodrigo-abieri-0b603b1a7/)
+* You can contact me through [LinkedIn](https://www.linkedin.com/in/rodrigo-abieri-0b603b1a7)
