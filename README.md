@@ -8,6 +8,7 @@ My name is Rodrigo, i'm from Argentina.
 
 * HTML, CSS, SASS, JavaScript, SQL.
 * I am currently learning React Js.
+* Tableau and Power BI.
 
 ## Contact
 
