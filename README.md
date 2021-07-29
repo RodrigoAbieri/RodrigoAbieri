@@ -6,8 +6,8 @@ My name is Rodrigo, i'm from Argentina.
 
 ## Skills
 
-* HTML, CSS, SASS, JavaScript
-* I am currently learning react js
+* HTML, CSS, SASS, JavaScript, SQL.
+* I am currently learning React Js.
 
 ## Contact
 
